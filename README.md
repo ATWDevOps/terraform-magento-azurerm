@@ -33,7 +33,7 @@ See [this article](https://docs.microsoft.com/en-us/azure/azure-resource-manager
 
 Alternatively, the following botton will allow you to deploy the APM template from Azure portal.
 
-[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://portal.azure.com/#create/Microsoft.Template/uri/https%3A%2F%2Fraw.githubusercontent.com%2FAzure%2Fazure-mysql%2Fmaster%2FMagento%2Fazuredeploy.json)
+[![Deploy to Azure](http://azuredeploy.net/deploybutton.png)](https://github.com/ATWDevOps/terraform-magento-azurerm/blob/aa70b85c0f7fdbfe517a005fa7c5e833b4db32ed/azuredeploy.json)
 
 ## Parameters
 
